@@ -8,3 +8,5 @@ To setup the environment:
 3. Install Quagga Routing Engine.
 4. Manually set up the lbvservers and the services.
 5. Web App is the file named home.html
+
+For further details, refer tge videos in https://drive.google.com/folderview?id=1TjEHYnBQpnQqdRPgP-ivs-bAjrDsNPkf
